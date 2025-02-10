@@ -21,16 +21,8 @@
 
 ## ⚡ Tools I Use
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pandas.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/numpy.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/scikit-learn.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/sql.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/linux.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/tableau.png"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ## 🛠️ IDE and Tools I Use
 
