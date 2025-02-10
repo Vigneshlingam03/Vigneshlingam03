@@ -1,4 +1,4 @@
-# Hi there, I'm Vignesh Lingam, a Data Analyst who loves coffee and coding! ☕💻
+# Hi there, I'm Vignesh Lingam, a Data Scientist who loves coffee and coding! ☕💻
 
 🚀 Passionate about **Machine Learning, Data Science, and Deep Learning**
 
